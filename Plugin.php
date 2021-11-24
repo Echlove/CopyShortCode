@@ -2,7 +2,7 @@
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
- * Git Widget For Typecho.
+ * 添加一个短代码，可以添加一个“点击复制”的按钮
  *
  * @package CopyShortCode
  * @author Echo

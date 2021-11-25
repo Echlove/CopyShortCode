@@ -7,7 +7,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @package CopyShortCode
  * @author Echo
  * @version 0.9.0
- * @link http://ywy.me
+ * @link https://github.com/Uncle-Antonio/CopyShortCode
  */
 class CopyShortCode_Plugin implements Typecho_Plugin_Interface
 {
